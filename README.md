@@ -1,19 +1,22 @@
 Samuni – Summary
-Samuni is a high-skill, no-grid match-strategy game built around physics, instinct, and controlled chaos.
-Colored orbs drift freely in a dynamic space. You link them in real time to trigger:
-Red: Attack
-Blue: Energy
-Yellow: Coins
-Green: Base growth
-Purple: Your core
-Others: Environmental noise and pressure
-There are no timers and no grids.
-Every choice is about flow, positioning, and spatial awareness.
-Swipe left for the quest log.
-Swipe right for upgrades.
-Swipe up to enter the game.
-A single seamless interface ties it all together.
-Season tiers evolve your star. Upgrades shape your power curve.
-Cosmetics stay purely cosmetic. Arena content is optional DLC.
-If you want random luck, play a slot machine.
-If you want skill, welcome to Samuni.
+Samuni is a no-grid, physics-driven strategy experience built around precision, intent, and controlled disruption.
+Orbs move freely through a shifting field. Players link them in real time to activate distinct forces:
+Red: Offensive output
+Blue: Energy flow
+Yellow: Currency generation
+Green: Base progression
+Purple: The core self
+Others: Signal interference and ambient pressure
+There are no timers.
+There is no grid.
+Only movement, awareness, and the choices you make inside the chaos.
+Swipe left to access objectives.
+Swipe right to shape your build.
+Swipe up to cross the threshold into play.
+A single, continuous interface anchors the experience.
+Season tiers redefine your path.
+Upgrades sculpt your identity.
+Cosmetics remain aesthetic.
+Arena content exists for those who seek deeper challenges.
+If you chase chance, look elsewhere.
+If you seek mastery, enter Samuni.
