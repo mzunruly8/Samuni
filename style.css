@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #0a0a0a;
+    font-family: sans-serif;
+    touch-action: none;
+}
+
+#ui-layer {
+    pointer-events: none;
+}
+
+.stat-badge {
+    background: rgba(0,0,0,0.6);
+    padding: 4px 12px;
+    border-radius: 99px;
+    border: 1px solid rgba(255,255,255,0.2);
+}
